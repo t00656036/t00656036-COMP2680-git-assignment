@@ -1,0 +1,17 @@
+Hobbies:
+
+- Hiking
+- Photography
+- Programming
+- Reading
+- Tabletop RPGs
+- Video Games
+
+Skills:
+
+- Cooking
+- Emacs configuration
+- GNU/Linux and NixOS system administration
+- Philosophy and history
+- Small electronics repair
+- Writing
